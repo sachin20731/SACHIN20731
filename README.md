@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhanushka Munasinghe</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka.</h3>
+<img align="right"  alt ="coding" width="400"  src="https://dribbble.com/shots/3848914-Programmer-Thomas.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin20731&label=Profile%20views&color=0e75b6&style=flat" alt="sachin20731" /> </p>
 
 - 🔭 Currently i am working on [Autism Spectrum](https://github.com/wssfernando99/Mproject)
 
-- Linkdin [https://www.linkedin.com/in/dhanushka-munasinghe-887311259/](https://www.linkedin.com/in/dhanushka-munasinghe-887311259/)
+
 
 - 📫 How to reach me **munasinghe20731@gmail.com**
 
