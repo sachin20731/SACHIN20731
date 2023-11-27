@@ -7,7 +7,7 @@
 
 - 🔭 Currently i am working on [Autism Spectrum](https://github.com/wssfernando99/Mproject)
 
-- Linkdin [https://www.linkedin.com/in/dhanushka-munasinghe-887311259/](https://www.linkedin.com/in/dhanushka-munasinghe-887311259/)
+
 
 - 📫 How to reach me **munasinghe20731@gmail.com**
 
