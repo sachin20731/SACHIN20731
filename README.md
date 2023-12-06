@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanushka Munasinghe</h1>
 <h3 align="center">A passionate fullstack developer from Sri Lanka.</h3>
 
-<img align="right"  alt ="coding" width="400"  src="https://private-user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDExMjIyMDMsIm5iZiI6MTcwMTEyMTkwMywicGF0aCI6Ii8xOTc4MzY3NS8yNTk5MDYxMzAtNWQzYzg4MDAtZmIwMC00NWQwLWI5ZGQtN2ViODJmMDU3YmFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzExMjclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMTI3VDIxNTE0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2ZDNlODYxMzJhZmI4ZTIyNDA3MGViMmVjZmY5NjUyZWQyYmNiNTI3YzZiOWRmMjYyMGFmNjg4Y2JlNzc2MDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EHDUc-jKtXaS4ceV1znu4Zh_PYIDMljMWI2NWbMRK6c">
+<img align="right"  alt ="coding" width="400"  src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin20731&label=Profile%20views&color=0e75b6&style=flat" alt="sachin20731" /> </p>
 
